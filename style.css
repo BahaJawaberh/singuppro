@@ -1,3 +1,21 @@
-.nav-weapper{
+.header{
     background-color: thistle;
+}
+
+.logoColor{
+    color: rgb(63, 56, 44);
+}
+.cards{
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-items: center;
+    display: grid;
+
+}
+
+.card{
+    height: 50%;
+    width: 50%;
+    
 }
